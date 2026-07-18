@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+
+# Build temp files
+_t.exe
+_tmp.exe
+
+# Python
+__pycache__/
+*.pyc
+
+# Output/logs (tracked versions are committed explicitly)
+diagnose_output.txt
+verify_r2_output.txt
